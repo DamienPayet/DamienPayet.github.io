@@ -7,7 +7,7 @@ L'avenir du développement informatique est un sujet d'actualité qui concerne l
 
 - 📈 L'avenir de la Data au travers du Business Intelligence (BI)
 
-- 👀 Les Technologie à surveiller 
+- 👀 Les Technologies à surveiller 
 
 - 🔨 Le Low/No Code la programmation de demain ? 
 
