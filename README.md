@@ -11,7 +11,7 @@ L'avenir du développement informatique est un sujet d'actualité qui concerne l
 
 - 🔨 Le Low/No Code la programmation de demain ? 
 
-- 🤖 L'Intelligence Artificiel dans le développement
+- 🤖 L'Intelligence Artificielle dans le développement
 
 - 🌃 Un avenir pour les CMS ? 
 
@@ -121,7 +121,7 @@ En conclusion, le low/no-code est un outil puissant qui a sa place dans le paysa
 
 Alors, développeurs, prenez du popcorn 🍿, installez-vous confortablement et préparez-vous à regarder le futur se dérouler. Que vous préfériez coder en binaire ou en glisser-déposer, rappelez-vous que la seule constante en technologie, c'est le changement. Alors, restez adaptables, restez innovants et, surtout, restez curieux. 🚀
 
-## L'Intelligence Artificiel dans le développement
+## L'Intelligence Artificielle dans le développement
 De HAL 9000 dans "2001, l'Odyssée de l'espace" à TARS dans "Interstellar", l'intelligence artificielle (IA) a toujours été un sujet fascinant dans la culture populaire. Mais aujourd'hui, elle est bien plus qu'un simple sujet de science-fiction, elle est devenue un outil puissant pour les développeurs. Allons voir comment.
 
 ### 1. 🤖 Automatisation du Code avec l'IA
